@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-
+import { Book } from '../book';
 @Component({
   selector: 'app-book-row',
   templateUrl: './book-row.component.html',
