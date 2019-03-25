@@ -10,7 +10,7 @@ namespace Fisher.Bookstore.Models
 
         public string Bio { get; set; }
 
-        public List<Book> Titles { get; set; }
+        public System.Collections.Generic.List<Book> Titles { get; set; }
 
        
     }
