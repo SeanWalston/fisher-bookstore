@@ -1,4 +1,5 @@
 using Fisher.Bookstore.Models;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace Fisher.Bookstore.Data
